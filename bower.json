@@ -1,0 +1,22 @@
+{
+  "name": "mist-swagger-ui",
+  "homepage": "https://github.com/mistio/swagger-ui",
+  "authors": [
+    "vasilis Kef <vasilis@mist.io>"
+  ],
+  "description": "swagger ui for Mist.io api spec",
+  "main": "index.html",
+  "moduleType": [],
+  "keywords": [
+    "swagger",
+    "mistio"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
